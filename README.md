@@ -19,13 +19,14 @@ I build reliable backend applications, automate Linux infrastructure, and create
 - Administer three dedicated servers hosting more than 20 LXC containers
 - Maintained isolated staging and production environments with 24/7 monitoring
 
-## Featured open-source projects
+## Featured engineering work
 
 - **[OpsPulse](https://github.com/vsmirlis/opspulse)** — [live monitoring and incident-management console](https://opspulse.kilobyte.gr/), built with React, Node.js, and TypeScript
 - **[FleetPatch](https://github.com/vsmirlis/fleetpatch)** — [live staged deployment and rollback console](https://fleetpatch.kilobyte.gr/), built with Go, React, and TypeScript
 - **[Runbook AI](https://github.com/vsmirlis/runbook-ai)** — [live approval-gated operations assistant](https://runbook-ai.kilobyte.gr/), built with Python, FastAPI, React, and grounded retrieval
+- **[LLM Coding Benchmark](https://github.com/vsmirlis/llm-coding-benchmark)** — [31 runnable local and hosted model outputs](https://llm-benchmark.kilobyte.gr/) from one difficult Tetris-style browser-game prompt, with hands-on findings and documented limitations
 
-These are clean-room reference implementations with synthetic data, automated tests, architecture documentation, Docker delivery, and CI. No employer-confidential code or data is used.
+The first three are clean-room reference implementations with synthetic data, automated tests, architecture documentation, Docker delivery, and CI. The benchmark uses the familiar game specification only as an independent testing method; I claim no ownership of Tetris or the model-generated submissions. No employer-confidential code or data is used.
 
 ## Links
 
