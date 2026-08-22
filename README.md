@@ -19,13 +19,13 @@ I build reliable backend applications, automate Linux infrastructure, and create
 - Administer three dedicated servers hosting more than 20 LXC containers
 - Maintained isolated staging and production environments with 24/7 monitoring
 
-## Current portfolio work
+## Featured open-source projects
 
-- **OpsPulse** — monitoring and incident-management reference application
-- **FleetPatch** — controlled remote-system update and rollback simulator
-- **Runbook AI** — approval-gated AI assistant for operational runbooks
+- **[OpsPulse](https://github.com/vsmirlis/opspulse)** — [live monitoring and incident-management console](https://opspulse.kilobyte.gr/), built with React, Node.js, and TypeScript
+- **[FleetPatch](https://github.com/vsmirlis/fleetpatch)** — [live staged deployment and rollback console](https://fleetpatch.kilobyte.gr/), built with Go, React, and TypeScript
+- **[Runbook AI](https://github.com/vsmirlis/runbook-ai)** — [live approval-gated operations assistant](https://runbook-ai.kilobyte.gr/), built with Python, FastAPI, React, and grounded retrieval
 
-These public reference projects are being developed from clean-room implementations with sample data. No employer-confidential code or data is used.
+These are clean-room reference implementations with synthetic data, automated tests, architecture documentation, Docker delivery, and CI. No employer-confidential code or data is used.
 
 ## Links
 
